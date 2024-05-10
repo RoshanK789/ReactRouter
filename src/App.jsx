@@ -35,7 +35,7 @@ const App = () => {
       Content:"6 Essential Prerequisites For Learning ReactJS"
     },
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVOrfWvTa5OgqqJX0Y4rf8z8EEXV_DN8chp5gaRlHvg&s",
       Title:"Cyber Security",
       Date:"10 May 2024",
       Content:"Cybersecurity Vs Ethical Hacking: Top 10 Differences"
@@ -47,13 +47,13 @@ const App = () => {
       Content:"8 Different Types of Cybersecurity and Threats Involved"
     },
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1PZkcNUbk0qeC4coYQ9oGCKrffrg2OM1XDcbPsv1ZkzcUwUfnRUF-wucVQlo1BIPX-Y&usqp=CAU",
       Title:"Cyber Security",
       Date:"10 May 2024",
       Content:"What is Cybersecurity? Importance and its uses & the growing challenges in 2023!"
     },
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png",
+      img:"https://www.shutterstock.com/image-vector/business-teamwork-small-peoples-working-600nw-1156921555.jpg",
       Title:"Cyber Security",
       Date:"10 May 2024",
       Content:"The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!"
