@@ -98,7 +98,7 @@ const App = () => {
       img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
       Title:"Carrer",
       Date:"10 May 2024",
-      Content:"Roles and Responsibilities of a Data Scientist"
+      Content:"Roles and Responsibilities of  Data Scientist"
     },
   ]
 
