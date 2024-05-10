@@ -11,25 +11,25 @@ import PageNotfound from './Pages/PageNotfound';
 const App = () => {
   const data=[
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
+      img:"https://d2ms8rpfqc4h24.cloudfront.net/Guide_to_Full_Stack_Development_000eb0b2d0.jpg",
       Title:"Full Stack Development",
       Date:"10 May 2024",
       Content:"Best Full-Stack Development Project Ideas in 2024"
     },
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
+      img:"https://www.classicinformatics.com/hubfs/full-stack%20developer.png#keepProtocol",
       Title:"Full Stack Development",
       Date:"10 May 2024",
       Content:"How Long Would It Take to Be a Full Stack Developer?"
     },
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png",
+      img:"https://miro.medium.com/v2/resize:fit:800/0*XH3rLskyOsCqVV-j.jpg",
       Title:"Full Stack Development",
       Date:"10 May 2024",
       Content:"Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024"
     },
     {
-      img:"https://www.guvi.in/blog/wp-content/uploads/2021/02/Full-Stack-Developer.png",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfCGlqt45yu5aEjdmkQMIxlKfwLERb8Rxz4oqZTqf_W-InL9QQP77nzjIi8GpamfmaMg&usqp=CAU",
       Title:"Full Stack Development",
       Date:"10 May 2024",
       Content:"6 Essential Prerequisites For Learning ReactJS"
